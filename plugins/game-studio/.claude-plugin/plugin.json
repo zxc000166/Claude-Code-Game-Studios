@@ -1,0 +1,14 @@
+{
+  "name": "game-studio",
+  "version": "1.0.0",
+  "description": "Claude Code Game Studios — Turn a single Claude Code session into a full game development studio with 49 agents, 72 skills, 12 hooks, and 11 rules for indie game development",
+  "author": {
+    "name": "Donchitos",
+    "email": "donchitos@example.com",
+    "url": "https://github.com/Donchitos"
+  },
+  "homepage": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "repository": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "MIT",
+  "keywords": ["game-development", "godot", "unity", "unreal", "indie-game", "studio", "agents", "skills", "claude-code"]
+}
